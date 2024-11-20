@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "image" : "kimino.jpg"
+    },
+    {
+        "id" : 2,
+        "image" : "natsu.jpg"
+    },
+    {
+        "id" : 3,
+        "image" : "suzume.jpg"
+    }
+]
